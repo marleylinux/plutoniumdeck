@@ -122,15 +122,31 @@ Place the main game files anywhere (Plutonium will prompt you to select the fold
 Recommended location: ~/wine/plutonium/callofduty/ for organization."
   p "$UI_ML" "Step 2: Configure Lutris Runners
 
-In Lutris, select both Spoofy and Plutonium entries.
-Click the Wine/Proton icon (bottle symbol) for each.
-Change the runner to a Proton-GE version (any recent one; avoid Lutris' default)."
-  p "$UI_ML" "Step 3: Install Dependencies for Spoofy (One-Time Setup)
+In Lutris, setup both Spoofy and Plutonium. 
+
+This is an example of the correct options to setup plutonium in lutris. Do this through the lutris GUI add game and manually install game.
+
+  args: DXVK_ASYNC=1 PROTON_NO_FSYNC=1 PROTON_NO_ESYNC=1
+  exe: /home/marley/wine/plutonium/plutonium.exe
+  prefix: /home/marley/wine/plutonium/prefix
+  working_dir: /home/marley/wine/plutonium
+wine:
+  version: any new Proton-GE
+
+  This is an example of the correct options to setup spoofy in lutris. Do this through the lutris GUI add game and manually install game.
+
+  game:
+  args: --asroot
+  exe: /home/marley/wine/plutonium/SecHex-Spoofy/SecHex-GUI.exe
+  prefix: /home/marley/wine/plutonium/prefix
+  working_dir: /home/marley/wine/plutonium/SecHex-Spoofy/
+wine:
+  version: any new Proton-GE
 
 Select Spoofy in Lutris (only needed for Spoofy).
 Click the Wine/Proton icon > Winetricks.
 Select Default prefix.
-Install the Windows component: dotnet60 (or dotnet6 if listed).
+Install the Windows component: dotnet6 (or dotnet6 if listed).
 Close Winetricks."
   p "$UI_ML" "Step 4: Launch Sequence (Every Time)
 The "banned" message on first Plutonium launch is normal (Plutonium banned legacy clients due to outdated anticheat).
