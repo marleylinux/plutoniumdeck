@@ -1,4 +1,0 @@
-19:12:26: ID ChangeMachineGuid -  Machine GUID - Before: 4d198a31-0a63-4a6f-b87f-ff22f78d6907 (Before)
-19:12:26: ID ChangeMachineGuid -  Machine GUID - After: 4819v283-l050-p977-r058-q0760y64 (After)
-19:12:26: ID pcname -  ComputerName - Before: ARCHLINUX (Before)
-19:12:26: ID pcname -  ComputerName - After: PCOV83GW (After)

@@ -1,7 +1,0 @@
-game:
-  args: DXVK_ASYNC=1 PROTON_NO_FSYNC=1 PROTON_NO_ESYNC=1
-  exe: /home/marley/wine/plutonium/plutonium.exe
-  prefix: /home/marley/wine/plutonium/prefix
-  working_dir: /home/marley/wine/plutonium
-wine:
-  version: Proton-GE Latest

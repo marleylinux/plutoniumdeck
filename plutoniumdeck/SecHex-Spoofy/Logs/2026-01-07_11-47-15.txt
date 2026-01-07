@@ -1,2 +1,0 @@
-11:47:15: ID smbios -  SMBIOS SystemSerialNumber - Before:  (Before)
-11:47:15: ID smbios -  SMBIOS SystemSerialNumber - After: ZQG2LD9BPY (After)

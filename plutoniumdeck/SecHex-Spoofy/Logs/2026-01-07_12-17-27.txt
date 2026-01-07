@@ -1,2 +1,0 @@
-12:17:27: ID smbios -  SMBIOS SystemSerialNumber - Before:  (Before)
-12:17:27: ID smbios -  SMBIOS SystemSerialNumber - After: OHEEEDLZA2 (After)
