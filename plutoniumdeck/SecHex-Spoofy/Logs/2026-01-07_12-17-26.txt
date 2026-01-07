@@ -1,0 +1,4 @@
+12:17:26: ID ChangeMachineGuid -  Machine GUID - Before: 1653p948-a334-b686-l532-j0426a14 (Before)
+12:17:26: ID ChangeMachineGuid -  Machine GUID - After: 3283y632-h668-e546-a143-g4781e74 (After)
+12:17:26: ID pcname -  ComputerName - Before: ARCHLINUX (Before)
+12:17:26: ID pcname -  ComputerName - After: AMD1O88K (After)

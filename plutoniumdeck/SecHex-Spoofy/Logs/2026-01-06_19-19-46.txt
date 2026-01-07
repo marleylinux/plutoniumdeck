@@ -1,0 +1,4 @@
+19:19:46: ID ChangeMachineGuid -  Machine GUID - Before: 8939j544-q527-q446-k930-z8981u63 (Before)
+19:19:46: ID ChangeMachineGuid -  Machine GUID - After: 2754m854-r615-z649-g170-k4745c39 (After)
+19:19:46: ID pcname -  ComputerName - Before: E3JFQ793 (Before)
+19:19:46: ID pcname -  ComputerName - After: J6NU9WM4 (After)
