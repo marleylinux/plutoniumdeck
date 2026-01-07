@@ -1,0 +1,7 @@
+game:
+  args: --asroot
+  exe: /home/marley/wine/plutonium/SecHex-Spoofy/SecHex-GUI.exe
+  prefix: /home/marley/wine/plutonium/prefix
+  working_dir: /home/marley/wine/plutonium/SecHex-Spoofy/
+wine:
+  version: Proton-GE Latest

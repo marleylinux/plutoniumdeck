@@ -1,0 +1,4 @@
+19:16:00: ID smbios -  SMBIOS SystemSerialNumber - Before: VPQ8Y9RGWC (Before)
+19:16:00: ID smbios -  SMBIOS SystemSerialNumber - After: 3A8U05VSI1 (After)
+19:16:00: ID product -  Product ID - Before: 70767-08315-58139-A5 (Before)
+19:16:00: ID product -  Product ID - After: 28677-68274-42805-P9 (After)

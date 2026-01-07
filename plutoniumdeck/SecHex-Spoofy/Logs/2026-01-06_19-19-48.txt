@@ -1,0 +1,4 @@
+19:19:48: ID smbios -  SMBIOS SystemSerialNumber - Before: 3A8U05VSI1 (Before)
+19:19:48: ID smbios -  SMBIOS SystemSerialNumber - After: 4Y0CADP1EP (After)
+19:19:48: ID product -  Product ID - Before: 28677-68274-42805-P9 (Before)
+19:19:48: ID product -  Product ID - After: 02082-50624-36459-Z1 (After)

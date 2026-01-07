@@ -1,0 +1,2 @@
+19:12:29: ID smbios -  SMBIOS SystemSerialNumber - Before:  (Before)
+19:12:29: ID smbios -  SMBIOS SystemSerialNumber - After: 2E07URI3ZL (After)
